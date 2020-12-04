@@ -771,7 +771,7 @@ template {
     width: 100%;
   }
 
-  .post-img-2 {
+  .post:nth-of-type(2) .post-img {
     order: -1;
   }
 
